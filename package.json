@@ -1,0 +1,14 @@
+{
+  "name": "calculate_bonus",
+  "version": "1.0.0",
+  "description": "project for calculateBonus",
+  "main": "script.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aleksandra Polianskaia",
+  "license": "ISC"
+}
