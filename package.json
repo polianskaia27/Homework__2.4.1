@@ -4,6 +4,7 @@
   "description": "project for calculateBonus",
   "main": "script.js",
   "devDependencies": {
+    "babel-plugin-istanbul": "^7.0.0",
     "jest": "^29.7.0"
   },
   "scripts": {
